@@ -23,7 +23,7 @@
   <img alt="swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
   <img alt="python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="SQLite" src ="https://img.shields.io/badge/sqllite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img alt="Xcode" src="https://img.shields.io/badge/xcode-%230097e6.svg?&style=for-the-badge&logo=xcode&logoColor=white" />
+  <img alt="Xcode" src="https://img.shields.io/badge/xcode-%230097e6.svg?&style=for-the-badge&logo=xcode&logoColor=white" />   \n
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
