@@ -7,7 +7,7 @@
 - 🎓 Business Administration, University of Macedonia
 - 👯 I’m looking to collaborate in a lofi YT radio channel.
 - 🥅 2020 Goals: Learn how to write better & cleaner code.
-- ⚡ Fun fact: I love play guitar / videogames
+- ⚡ Fun fact: I love space & videogames
 
 <br>
 
