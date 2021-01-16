@@ -4,10 +4,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/zacharisharris?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzacharisharris&screen_name=zacharisharris)
 
 
-- 🌱 I’m currently learning Swift 🤣
-- 🎓 Business Administration, University of Macedonia
-- 👯 I’m looking to collaborate in a lofi YT radio channel.
-- 🥅 2021 Goals: Become a Digital Nomad.
+- 🌱  I’m currently learning Swift 🤣
+- 🎓  Business Administration, University of Macedonia
+- 👯  I’m looking to collaborate in a lofi YT radio channel.
+- 🥅  2021 Goals: Become a Digital Nomad.
 - ⚡ Fun fact: I love space & videogames
 
 <br>
