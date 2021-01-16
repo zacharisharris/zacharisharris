@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Swift 🤣
 - 🎓 Business Administration, University of Macedonia
 - 👯 I’m looking to collaborate in a lofi YT radio channel.
-- 🥅 2020 Goals: Learn how to write better & cleaner code.
+- 🥅 2021 Goals: Become a Digital Nomad.
 - ⚡ Fun fact: I love space & videogames
 
 <br>
