@@ -1,50 +1,36 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="http://instagram.com/zacharisharris">Harris Zacharis.</a></strong>
 </h1>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/zacharisharris?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzacharisharris&screen_name=zacharisharris)
-
-
-- 🌱 I’m currently learning Swift 🤣
+- 🌱 Junior iOS & C# developer
 - 🎓 Business Administration, University of Macedonia
 - 👯 I’m looking to collaborate in a lofi YT radio channel.
 - 🥅 2021 Goals: Become a Digital Nomad.
 - ⚡ Fun fact: I love space & videogames
 
-<br>
 
-### Spotify Playing 🎧
-[<img src="https://spotify-readme-widget.vercel.app/api/spotify-playing" alt="zacharisharris Spotify Playing" width="350" />](https://open.spotify.com/user/zaxarisharris)
+## 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zacharisharris)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zacharisharris)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/zacharisharris) 
 
-<br>
-
-<h3>Tools of the trade</h3>
-<p>
-  <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt="swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
-  <img alt="python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqllite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img alt="Xcode" src="https://img.shields.io/badge/xcode-%230097e6.svg?&style=for-the-badge&logo=xcode&logoColor=white" /> <br>
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Visual Studio" src="https://img.shields.io/badge/visual%20studio-%235C2D91.svg?&style=flat-square&logo=visual%20studio&logoColor=white" />  
-   <img alt="Heroku" src="https://camo.githubusercontent.com/4ba5fe514efb17b3d77d976817f0821727811b5b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c61742d737175617265266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" /> <br>
-  <img alt="dotnet" src="https://img.shields.io/badge/dotnet-net%23239120.svg?&style=flat-square&logo=dot-net&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
-
-<br>
-
-### Connect with me:	
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  
+# 💻Tools of the Trade
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+ ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) <br>
+ ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 
-[twitter]: https://twitter.com/zacharisharris
-[instagram]: https://instagram.com/zacharisharris
-[linkedin]: https://linkedin.com/in/zacharisharris
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zacharisharris&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-<br>
+
+
+### ✍️ What I listen to:
+ [<img src="https://spotify-readme-widget.vercel.app/api/spotify-playing" alt="zacharisharris Spotify Playing" width="350" />](https://open.spotify.com/user/zaxarisharris)
+
+
+
+
+
+
+
+
+
