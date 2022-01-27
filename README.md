@@ -2,7 +2,7 @@
 </h1>
 
 - 🌱 Junior iOS & C# developer
--    Developer of [Singularity iOS app](https://zacharisharris.github.io/singularity/)
+- 💭 Developer of [Singularity iOS app](https://zacharisharris.github.io/singularity/)
 - 🎓 Business Administration, University of Macedonia
 - 👯 I’m looking to collaborate in a lofi YT radio channel.
 - 🥅 2021 Goals: Become a Digital Nomad.
